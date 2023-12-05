@@ -9,8 +9,7 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-layer7.git
 * cd Dedsec-layer7
-* chmod +x dedsec-layer7.py
-* python3 dedsec-layer7.py
+* ./dedsec-layer7
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
@@ -21,7 +20,7 @@
 * high bandwidth
 
 ### LANGUAGE 
-* Python
+* Python 3.11
 
 <h1 align="center"> DISCLAIMER </h1>
 
